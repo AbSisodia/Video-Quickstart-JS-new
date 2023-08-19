@@ -46,8 +46,8 @@ jspm_packages
 .DS_Store
 package-lock.json
 
-# The generated index.js
-**/public/index.js
+# # The generated index.js
+# **/public/index.js
 
 # The generated helpers.js
 **/public/helpers.js
